@@ -8,5 +8,5 @@ To get started with Mocha, follow these steps:
    Ensure you have Python installed on your system. If not, download and install it from the official Python website.
 # 2. Library Installation
    Open your terminal or command prompt.
-   Install the necessary Python libraries using the following commands: pip install requests, beautifulsoup4, plyer
+   Install the necessary Python libraries using the following commands: ('pip install requests, beautifulsoup4, plyer')
 

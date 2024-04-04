@@ -11,13 +11,13 @@ import random
 now = datetime.now()
 current_time = now.strftime("%H:%M:%S")
 
-# copilot code
+# You can change the end tags to whatever sources you want to recieve in your web results.
 
 end_tags_coding = [': GeeksforGeeks', ': Stack Overflow', ': W3 Schools']
 
 notification.notify(
     title = 'Mocha',
-    message = 'Welcome to your web scraping copilot',
+    message = 'Welcome to your web scraping assistant',
     app_icon = None,
     timeout = 3,
 )

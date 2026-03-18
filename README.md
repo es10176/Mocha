@@ -16,7 +16,7 @@ To get started with Mocha, follow these steps:
 # 2. Navigate to the project directory:
    Change your working directory to the folder where Mocha.py is located.
 # 3. Run the script:
-   Execute the main python script with the following command: ```python Mocha.py`` or run the Mocha file with python directly from your folder in your file manager.
+   Execute the main python script with the following command: ```python Mocha.py``` or run the Mocha file with python directly from your folder in your file manager.
 # Maintenance and Troubleshooting:
 # 1. No results displayed:
    If Mocha doesn’t show any results, check your internet connection and ensure that the coding sources are accessible.

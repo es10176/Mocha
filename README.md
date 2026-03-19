@@ -5,7 +5,7 @@
 ```pip install -r requirements.txt```
 # Usage
 ### 🔹 Pass URL as an argument
-```python scraper.py https://example.com```
+```python Mocha.py https://example.com```
 
 ### 🔹 Interactive mode
 ```python Mocha.py```
